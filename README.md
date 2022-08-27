@@ -9,8 +9,7 @@
 </div>
     
 <div align="center">
-  <img align="center" alt="vinny-pic" height="150" style="border-radius:50px;" src="iconvinny.png">
-   
+  <img align="center" alt="vinny-pic" height="200" style="border-radius: 100px;" src="iconvinny.png">
     
 <div align="center">
   
@@ -31,7 +30,6 @@
 <div align="center"> 
   <a href="https://www.youtube.com/c/YGBVINNY" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ygbvinny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "vinici1910@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ygbvinny/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/ygbvinny/ygbvinny/blob/output/github-contribution-grid-snake.svg)
