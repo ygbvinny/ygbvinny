@@ -1,9 +1,10 @@
 
-<div align="center">
+<div>
   
-  <hp align="left">Oi Tudo bem? Eu sou o <a href="https://www.instagram.com.ygbvinny"><i>YGB Vinny</i></a> 👽</hp>
-  <img align="right" alt="Vinny-pic" height="300" style="border-radius:50px;" src="thumbzada.gif">
-  <p align="left">Estou Estudando Desenvolvimento Web na <a href="https://cursos.dankicode.com/"><i>DankiCode</i></a> 
+  <h2 align="left">Olá, Tudo bem? Meu nome é <a href="https://www.instagram.com.ygbvinny"><i>Vinicius<i></a>👽</h2>
+  <img align="right" alt="Vinny-pic" height="310" style="border-radius:50px;" src="thumbzada.gif">
+  <p align="left">Estou Estudando Desenvolvimento Web na <a href="https://cursos.dankicode.com/"><i>DankiCode</i></a>
+     e no Momento Estou Aprendendo HTML and CSS
 </div>
 
 <div align="center">
