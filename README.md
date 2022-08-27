@@ -1,7 +1,7 @@
 
 <div>
   
-  <h2 align="center">Olá, Tudo bem? Meu nome é <a href="https://www.instagram.com/ygbvinny"><i>Vinicius<i></a>👽</h2>
+  <h2 align="center">Olá, Tudo bem? Meu nome é <a href="https://www.instagram.com/ygbvinny" target="_blank"><i>Vinicius<i></a>👽</h2>
    
   <p align="center">Estou Estudando Desenvolvimento Web na <a href="https://cursos.dankicode.com/"><i>DankiCode</i></a>
      e no Momento Estou Aprendendo HTML and CSS. 🤓📚 <br>
