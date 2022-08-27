@@ -1,8 +1,9 @@
-### Olá! Eu sou o David Luiz
+### Olá! Eu sou o YGB Vinny
 
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Sistemas da Informação 5/8
+- 🔭 Aprendendo Programação
+- 🌱 Estudando HMTL/CSS Atualmente.
+- 
 <div align="center">
   <a href="thumbzada.gif" = width "325px">
   <a href="https://github.com/ygbvinny">
