@@ -18,7 +18,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygbvinny&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 </div>
- 
+ <br>
 <div align="center" style="display: inline_block">
   
   <img align="center" alt="Vinny-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,7 +26,7 @@
   <img align="center" alt="Vinny-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
 </div>
-  
+  <br>
 <div align="center"> 
   <a href="https://www.youtube.com/c/YGBVINNY" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ygbvinny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
