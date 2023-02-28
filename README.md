@@ -3,10 +3,10 @@
   
   <h2 align="center">Olá, Tudo bem? Meu nome é <a href="https://www.instagram.com/ygbvinny" target="_blank"><i>Vinicius<i></a> . <img alt="Hi.gif" height="24" width="25" src="Hi.gif"</h2>
    
-  <p align="center center">Estou Estudando Web Design, UX/UI Design na <a href="https://www.origamid.com/"><i>Origamid</i></a>
-     e no Momento Estou Aprendendo HTML and CSS. 🤓📚 <br>
+  <p align="center">Estou Estudando Web Design, UX/UI Design na <a href="https://www.origamid.com/"><i>Origamid</i></a>
+    e no Momento Estou Aprendendo HTML and CSS. 🤓📚</p>
   
-  </div>
+</div>
     
 <div align="center">
   <img alt="vinny-gif" height="400" style="border-radius:100px" src="vinny-gif.gif">
