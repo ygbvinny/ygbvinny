@@ -1,7 +1,4 @@
-
-<div>
-  
-  <h2 align="center">Olá, Tudo bem? Meu nome é <a href="https://www.instagram.com/ygbvinny" target="_blank"><i>Vinicius<i></a> . <img alt="Hi.gif" height="24" width="25" src="Hi.gif"</h2>
+<h2 align="center">Olá, Tudo bem? Meu nome é <a href="https://www.instagram.com/ygbvinny" target="_blank"><i>Vinicius<i></a> . <img alt="Hi.gif" height="24" width="25" src="Hi.gif"</h2>
    
   <p align="center">Estou Estudando Web Design, UX/UI Design na <a href="https://www.origamid.com/"><i>Origamid</i></a>
     e no Momento Estou Aprendendo HTML and CSS. 🤓📚</p>
