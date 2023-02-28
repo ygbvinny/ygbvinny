@@ -1,8 +1,11 @@
-<h3 align="center">Olá, Tudo bem? Meu nome é <a href="https://www.instagram.com/ygbvinny" target="_blank"><i>Vinicius<i></a> . <img alt="Hi.gif" height="24" width="25" src="Hi.gif"</h3>
-   
-  <p align="center">Estou Estudando Web Design, UX/UI Design na <a href="https://www.origamid.com/"><i>Origamid</i></a>
-    e no Momento Estou Aprendendo HTML and CSS. 🤓📚</p>
+<div align="center">
+<h2 align="center">Olá, Tudo bem? Meu nome é <a href="https://www.instagram.com/ygbvinny" target="_blank"><i>Vinicius<i></a> . <img alt="Hi.gif" height="24" width="25" src="Hi.gif"</h2>
 
+   </div>
+ <div align="center">  
+  <p>Estou Estudando Web Design, UX/UI Design na <a href="https://www.origamid.com/"><i>Origamid</i></a>
+    e no Momento Estou Aprendendo HTML and CSS. 🤓📚</p>
+   </div>
     
 <div align="center">
   <img alt="vinny-gif" height="500" style="border-radius:100px" src="vinny-gif.gif">
@@ -12,7 +15,7 @@
   
   <a href="https://github.com/ygbvinny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygbvinny&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygbvinny&layout=compact&langs_count=7&theme=midnight-purple"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygbvinny&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 </div>
  <br>
