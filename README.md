@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Olá, Tudo bem? Meu nome é <a href="https://www.instagram.com/ygbvinny" target="_blank"><i>Vinicius<i></a> . <img alt="Hi.gif" height="24" width="25" src="Hi.gif"</h1>
+<h2 align="center">Olá, Tudo bem? Meu nome é <a href="https://www.instagram.com/ygbvinny" target="_blank"><i>Vinicius<i></a> . <img alt="Hi.gif" height="24" width="25" src="Hi.gif"</h2>
 
    </div>
    
@@ -11,7 +11,7 @@
    </div>
     
 <div align="center">
-  <img alt="vinny-gif" height="500" style="border-radius:100px" src="vinny-gif.gif">
+  <img alt="vinny-gif" height="400" style="border-radius:100px" src="vinny-gif.gif">
 </div>
     
 <div align="center">
