@@ -9,7 +9,7 @@
 </div>
     
 <div align="center">
-  <img align="center" alt="vinny-pic" height="200" style="border-radius: 100px;" src="iconvinny.png">
+  <img align="center" alt="vinny-gif" height="600" style="border-radius:50px" src="vinny-gif.gif">
 
     
 <div align="center">
@@ -22,9 +22,9 @@
  <br>
 <div align="center" style="display: inline_block">
   
-  <img align="center" alt="Vinny-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vinny-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vinny-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vinny-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vinny-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vinny-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
 </div>
   <br>
