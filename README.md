@@ -9,7 +9,7 @@
 </div>
     
 <div align="center">
-  <img alt="vinny-gif" height="400" style="border-radius:100px" src="vinny-gif.gif">
+  <img alt="vinny-gif" height="500" style="border-radius:100px" src="vinny-gif.gif">
 </div>
     
 <div align="center">
