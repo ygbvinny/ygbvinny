@@ -24,10 +24,10 @@
  <br>
 <div align="center" style="display: inline_block">
   
-  <img align="center" alt="Vinny-HTML" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img align="center" alt="Vinny-CSS" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-  <img align="center" alt="Vinny-Js" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-   <img align="center" alt="Vinny-Fig" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg">
+  <img align="center" alt="Vinny-HTML" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+  <img align="center" alt="Vinny-CSS" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img align="center" alt="Vinny-Js" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+   <img align="center" alt="Vinny-Fig" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg">
   
 </div>
   <br>
