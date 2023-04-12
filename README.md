@@ -1,8 +1,8 @@
 <div align="center">
 <h2 align="center">Olá, Tudo bem? Meu nome é <a href="https://www.instagram.com/ygbvinny" target="_blank"><i>Vinicius<i></a> . <img alt="Hi.gif" height="24" width="25" src="Hi.gif"</h2>
 
-   </div>
-   
+</div>
+
  <div align="center">  
     
   <p align="center">Estou Estudando Web Design, UX/UI Design na <a href="https://www.origamid.com/"><i>Origamid</i></a>
@@ -14,6 +14,11 @@
   <img alt="vinny-gif" height="500" style="border-radius:100px" src="vinny-gif.gif">
 </div>
     
+<br />
+   
+---
+
+   
 <div align="center">
   
   <a href="https://github.com/ygbvinny">
@@ -21,7 +26,7 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygbvinny&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 </div>
- <br>
+   
 <div align="center" style="display: inline_block">
   
   <img align="center" alt="Vinny-HTML" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
