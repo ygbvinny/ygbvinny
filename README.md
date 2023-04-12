@@ -11,7 +11,7 @@
    </div>
     
 <div align="center">
-  <img alt="vinny-gif" height="600" style="border-radius:100px" src="vinny-gif.gif">
+  <img alt="vinny-gif" height="500" style="border-radius:100px" src="vinny-gif.gif">
 </div>
     
 <div align="center">
@@ -34,7 +34,7 @@
 <div align="center"> 
   <a href="https://www.youtube.com/c/YGBVINNY" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ygbvinny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ygbvinny/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vinnysouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/ygbvinny/ygbvinny/blob/output/github-contribution-grid-snake.svg)
   
